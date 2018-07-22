@@ -9,10 +9,6 @@ import org.springframework.transaction.annotation.Transactional;
 import com.sample.spring.dao.UserDao;
 import com.sample.spring.entity.User;
 
-/**
- * @author imssbora
- *
- */
 @Service
 public class UserServiceImp implements UserService {
 

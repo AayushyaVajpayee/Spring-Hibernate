@@ -9,10 +9,6 @@ import com.sample.spring.config.AppConfig;
 import com.sample.spring.entity.User;
 import com.sample.spring.service.UserService;
 
-/**
- * @author imssbora
- *
- */
 public class MainApp {
    public static void main(String[] args) throws SQLException {
       AnnotationConfigApplicationContext context = 

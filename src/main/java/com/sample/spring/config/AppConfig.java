@@ -17,10 +17,6 @@ import org.springframework.orm.hibernate5.LocalSessionFactoryBean;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 import com.sample.spring.entity.User;
-/**
- * @author imssbora
- *
- */
 @Configuration
 @PropertySource("classpath:db.properties")
 @EnableTransactionManagement

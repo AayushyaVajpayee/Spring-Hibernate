@@ -10,10 +10,7 @@ import org.springframework.stereotype.Repository;
 
 import com.sample.spring.entity.User;
 
-/**
- * @author imssbora
- *
- */
+
 @Repository
 public class UserDaoImp implements UserDao {
 
