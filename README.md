@@ -12,7 +12,7 @@ List<User> listUsers() // fetches all the rows present in USERS table of databas
 ```
 ## how to run the application?
 Configure the properties in `/src/main/resources/db.properties` according to your settings of mysql.
-After that from the home directory of the project you need to execute the following two commands (if you don't have gradle configured follow this link [gradle installation](https://gradle.org/install/#manually))
+After that from the home directory of the project you need to execute the following two commands in command prompt (if you don't have gradle configured follow this link [gradle installation](https://gradle.org/install/#manually))
 ```text
 gradle build
 gradle run
